@@ -7,8 +7,7 @@
     "name": "Joe Mathews",
     "email": "joe@abovethewater.co.uk"
   },
-  "contributors": [
-  ],
+  "contributors": [],
   "repository": {
     "type": "git",
     "url": "git://github.com/abovethewater/grunt-docco-multi.git"
@@ -30,7 +29,7 @@
     "test": "grunt test"
   },
   "peerDependencies": {
-    "grunt": "~0.4"
+    "grunt": ">=0.4.0"
   },
   "dependencies": {
     "docco": "~0.6.2"
